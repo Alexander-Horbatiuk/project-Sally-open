@@ -1,0 +1,122 @@
+
+.UploadField {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .UploadPDFWrapper {
+    cursor: pointer;
+    border: 1px solid #cbcbcb;
+    width: inherit;
+    height: inherit;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+  .AddFileIcon {
+    height: 30px;
+    width: 30px;
+  }
+  
+  .UploadPicCase {
+    cursor: pointer;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    column-gap: 20px;
+    row-gap: 10px;
+    position: relative;
+  }
+  
+  .ChangeHover {
+    overflow: hidden;
+    position: relative;
+  
+    &:after {
+      cursor: pointer;
+      content: "Change";
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: rgba(#000, 0.3);
+      position: absolute;
+      color: #FFF;
+      font-weight: bold;
+      font-size: 20px;
+      z-index: 11;
+      backdrop-filter: blur(0);
+      opacity: 0;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      transition: 0.3s;
+    }
+  
+    &:hover{
+      &:after{
+        opacity: 1;
+        backdrop-filter: blur(5px);
+      }
+    }
+  }
+  
+  .CancelIcon {
+    background: white;
+    position: absolute;
+    top: 3px;
+    right: 2px;
+    cursor: pointer;
+    border-radius: 50%;
+    z-index: 12;
+  }
+  
+  .CancelIcon:hover {
+    background: tomato;
+    border-color: lightgoldenrodyellow;
+    transition: all .3s ease-in-out;
+  }
+  .PicBox {
+    position: relative;
+    display: flex;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .PicItem {
+    width: 150px;
+    height: 150px;
+    max-width: 100%;
+    border-radius: 5px;
+    object-fit: cover;
+    box-shadow: 4px 4px 50px 29px rgba(34, 60, 80, 0.12);
+  }
+  
+  
+  .PicWrapper {
+    display: block;
+    position: relative;
+    border-radius: 5px;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .UploadPicBtn {
+    height: 150px;
+    width: 150px;
+  }
+  
+  .UploadBtnLabel {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+  
+    svg {
+      width: 40px;
+      height: 40px;
+    }
+  }

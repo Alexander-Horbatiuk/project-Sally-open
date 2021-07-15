@@ -1,0 +1,55 @@
+.item-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top: 1px solid rgb(207, 207, 207);
+    border-bottom: none;
+    background-color: white;
+    cursor: pointer;
+    transition: .3s;
+    padding: 10px 20px;
+}
+
+.item-row:hover {
+    background-color: #f7f7f7;
+}
+
+.item-row:active {
+    background-color: white;
+}
+
+.item-row .util-column {
+    text-align: center;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-between;
+    flex-shrink: 0;
+    font-weight: 300;
+    height: 100%;
+}
+
+.util-column {
+    min-height: 60px;
+}
+.delete-button {
+    height: 60px;
+    max-width: 100px;
+    width: 100%;
+    border-radius: 5%;
+    outline: none;
+    background-color: #f50057;
+    color:white;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+}
+
+/* vertical margin zero */
+.vm-zero {
+    font-weight: 300;
+}

@@ -1,0 +1,53 @@
+.UserCard {
+  max-width: 260px;
+  min-width: 200px;
+  width: 100%;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 12px;
+  margin-left: 0px;
+  display: flex;
+  align-items: center;
+  border: 1px solid rgb(236, 236, 236);
+  box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+  cursor: pointer;
+}
+
+.UserCard:hover {
+  transform: scale(1.03);
+}
+
+.Photo {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #d0d0d0;
+}
+
+.ImgContainer {
+  width: 60px;
+  height: 60px;
+}
+
+.UserInfo {
+  margin-left: 7px;
+}
+
+.MarkerBold {
+  font-weight: 700;
+}
+
+.Photo > .FirstChar {
+  font-size: 25px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Star {
+  color: #ed4d1c
+}

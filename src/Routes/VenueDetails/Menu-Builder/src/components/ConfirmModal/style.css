@@ -1,0 +1,83 @@
+.confirm-modal {
+    position: fixed; /* Stay in place */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    z-index: 999; /* Sit on top */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.confirm-modal .modal-content {
+    text-align: center;
+    background-color: #fefefe;
+    padding: 20px;
+    border: 1px solid #888;
+    border-radius: 10px;
+    width: 70%; /* Could be more or less, depending on screen size */
+    max-width: 500px;
+}
+
+.flex-justify-center  {
+    box-sizing: border-box;
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.confirm-modal .btn-cancel {
+    box-sizing: border-box;
+    height: 40px;
+    max-width: 100px;
+    width: 100%;
+    border-radius: 5%;
+    outline: none;
+    background-color: #3f51b5;
+    color: white;
+    border: none;
+    display: flex;
+    padding: 20px;
+    text-transform: uppercase;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+}
+
+.confirm-modal .btn-cancel:hover {    
+    background-color: #303f9f;
+}
+
+
+.confirm-modal .btn-confirm {
+    box-sizing: border-box;
+    height: 40px;
+    max-width: 100px;
+    width: 100%;
+    border-radius: 5%;
+    outline: none;
+    background-color: #f50057;
+    color: white;
+    border: none;
+    display: flex;
+    padding: 20px;
+    text-transform: uppercase;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+    gap: 10px;
+}
+
+.confirm-modal .btn-confirm:hover {    
+    background-color: #d2004a;
+}
+
+
+.confirm-modal .btn-confirm span {
+
+}

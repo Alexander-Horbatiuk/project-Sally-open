@@ -1,0 +1,47 @@
+.NewCardBox {
+    max-width: 300px;
+    width: 100%;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 13px 0px rgba(34, 60, 80, 0.14);
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    row-gap: 10px;
+    transition: .2s;
+    margin-right: 10px;
+}
+
+.NewCardBox:hover {
+    transform: scale(1.03);
+}
+
+.NewCardBox label > input {
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    outline: none;
+    padding: 5px 10px 5px 10px;
+    color: #777 ;
+    
+}
+
+.NewCardBox label {
+    display: flex;
+    align-items: center;
+}
+
+.NewCardBox .Text {
+    display: flex; 
+    justify-content: space-between;
+}
+
+.NewCardBox div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.RadioButton span {
+    margin-left: 10px;
+}

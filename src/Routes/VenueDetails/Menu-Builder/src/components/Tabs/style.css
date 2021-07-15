@@ -1,0 +1,75 @@
+.tab-container body {font-family: Arial;}
+
+/* Style the tab */
+.tab-container .tab {
+  overflow: hidden;
+  width: 100%;
+}
+
+.tab-container .button-x{
+  margin: 5px;
+  padding: 3px;
+}
+
+.tablinks {
+  max-width: 200px;
+  width: 100%;
+}
+
+.tab-box {
+  padding: 20px 5%;
+}
+
+/* Style the buttons inside the tab */
+.tab-container .tab > button {
+  background-color: inherit;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+
+
+/* Change background color of buttons on hover */
+.tab-container .tab > button:hover {
+  background-color: #ddd;
+}
+
+.tab-container .bg-grey {  
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+}
+
+/* Create an active/current tablink class */
+.tab-container .tab >  button.active {
+  background-color: red;
+}
+
+/* Style the tab content */
+.tab-container .tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.tab-container .lang-select {
+  width: 200px
+}
+
+.tab-container .tab .warning-text {
+  color: #fff;
+  width: 300px;
+  background-color: #2946e8;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.tab-container .tab .warning-text:hover {
+  background-color: #001ec9;
+}

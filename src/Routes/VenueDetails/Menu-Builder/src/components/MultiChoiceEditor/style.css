@@ -1,0 +1,193 @@
+.multiChoiceEditor {
+    border-top: 1px solid #e7e7e7;
+    padding: 10px 10px 0 10px;
+}
+
+.multiChoiceEditor input[type=text] {
+    padding: 4px;
+    border: 1px solid #d8d8d8;
+    border-radius: 5px;
+}
+
+.flex-sbetween {
+    padding: 10px 0;
+}
+.multiChoiceEditor .flex-sbetween label {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.multiChoiceEditor .flex-sbetween label>span {
+    font-weight: 300;
+    font-size: 24px;
+    color:rgb(141, 141, 141);
+}
+
+/* ________________________grid______ */
+.multiChoiceEditor .grid-header {
+    border-bottom: 1px solid rgb(230, 230, 230);
+    padding-bottom: 10px;
+}
+
+.multiChoiceEditor .grid {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.justify-center {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 20px;
+}
+
+.multiChoiceEditor .normal-button {
+    padding: 10px;
+    box-sizing: border-box;
+    min-height: auto;
+}
+.grid-body {
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+}
+
+.content_box {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 13px 0px rgb(34 60 80 / 14%);
+    transition: .2s;
+    padding: 10px;
+    border-radius: 5px;
+    row-gap: 5px;
+    background: #fff;
+    
+}
+
+.content_box:hover {
+    transform: scale(1.003);
+}
+
+.option_box label{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+.option_box {
+    display: flex;
+    /* flex-direction: column; */
+    gap: 10px;
+}
+
+.option_box label>span{
+    color: #ccc;
+    font-weight: 300;
+    font-size: 12px;
+}
+/* _____________-____________ */
+
+.multiChoiceEditor .title-input {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.warning-border {
+    border-color: rgb(238, 115, 1);
+}
+
+.multiChoiceEditor .warning {
+    margin-right: 10px;
+    color: rgb(238, 115, 1);
+}
+
+.multiChoiceEditor .grid-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top: 1px solid rgb(241, 241, 241);
+    padding: 10px 0 0 0;
+}
+
+.button_footer_box {
+    max-width: 200px;
+    width: 100%;
+    min-height: 60px;
+}
+
+.multiChoiceEditor .grid-footer .button_footer{
+    box-sizing: border-box;
+    border: none;
+    border-radius: 5px;
+    outline: 0px;
+    max-width: 200px;
+    width: 100%;
+    min-height: 60px;
+    padding: 1%;
+    background-color: lightgray;
+    cursor: pointer;
+    background-color: #3f51b5;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 1px;
+    transition: .3s;
+    font-size: 17px;
+    box-shadow: 0px 2px 4px -1px rgb(0 0 0 / 20%), 0px 4px 5px 0px rgb(0 0 0 / 14%), 0px 1px 10px 0px rgb(0 0 0 / 12%);
+}
+
+.multiChoiceEditor .grid-footer .button_footer:hover {
+    background-color: #303f9f;
+}
+
+.multiChoiceEditor .grid-footer .button_footer:active {
+    background-color: #303f9f;
+}
+
+.multiChoiceEditor .delete-x {
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+    background: #f50057;
+    color: #fff;
+    outline: none;
+    border: none;
+    transition: 0.2s ease-in;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+}
+
+.multiChoiceEditor .delete-x span {
+    font-size: 28px;
+    font-weight: 300;
+    display: flex;
+    transform: rotate(45deg);
+}
+
+.multiChoiceEditor .delete_field {
+    
+    width: 30px;
+    height: 30px;
+}
+.multiChoiceEditor .delete_field span {
+    font-size: 20px;
+}
+
+.multiChoiceEditor .delete-x:hover {
+    background:#c51162;
+}
+
+.multiChoiceEditor .delete-x:active {
+    background-color: lightgrey;
+}

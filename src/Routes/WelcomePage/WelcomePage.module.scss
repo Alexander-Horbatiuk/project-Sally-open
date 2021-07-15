@@ -1,0 +1,15 @@
+.WelcomePageWrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 30px;
+}
+
+.Video {
+    max-width: 1000px;
+    width: 100%;
+    min-height: 500px;
+
+}

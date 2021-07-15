@@ -1,0 +1,46 @@
+.nav-icons {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 60px;
+    margin-right: 30px;
+}
+
+.nav-icons button {
+    width: 25px;
+    height: 25px;
+    outline: none;
+    transition: 0.2s ease-in;
+    fill: #8090e8;
+    width: 50px;
+    height: 25px;
+    background: transparent;
+    border-radius:5px;
+    border: 1px solid #8090e8;
+}
+
+.nav-icons button:hover {
+    border: 1px solid #2946e8;
+    fill: #2946e8;
+    background: #8090e8 ;
+}
+
+    
+.nav-icons button:active {
+    border: 1px solid #2946e8;
+    fill: #2946e8;
+}
+
+
+.nav-icons button:disabled {
+    fill: #ccc;
+    border: 1px solid #ccc;
+}
+
+button:disabled:hover {
+    background: #fff;
+}
+
+.table-footer .nav-icons {
+    margin-right: 0;
+}

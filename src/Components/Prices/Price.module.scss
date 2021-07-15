@@ -1,0 +1,44 @@
+.Container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.PriceCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 3px;
+    text-align: center;
+    width: 160px;
+    height: 140px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px -2px rgba(34, 60, 80, 0.23);
+    color: rgba(#626262, 0.6);
+    cursor: default;
+}
+
+.PriceCardActive {
+    cursor: pointer;
+    color: #3f51b5;
+    box-shadow: 0 0 8px 4px rgba(#3f51b5, 0.13);
+}
+
+.BigText {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.MediumText {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.SmallText {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 1.1;
+}

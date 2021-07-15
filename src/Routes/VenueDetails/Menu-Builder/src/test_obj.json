@@ -1,0 +1,2751 @@
+[
+    {
+      "1": {
+        "times": "10:00 - 14:00",
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "catTitle": "Brunch",
+        "itemsarray": [
+          {
+            "options": [
+              {
+                "required": false,
+                "options": [
+                  "Gluten-free"
+                ],
+                "type": "check",
+                "title": "Options",
+                "preselArray": [
+                  false
+                ],
+                "itemIDArray": [
+                  ""
+                ],
+                "price": [
+                  ""
+                ]
+              }
+            ],
+            "contains": [
+              "circle-eggs",
+              "circle-gluten",
+              "circle-milk",
+              "circle-mustard",
+              "circle-so2"
+            ],
+            "desc": "Three Poached Eggs Served On English Muffins, Your Choice of Bacon or Smoked Salmon, Hollandaise Sauce",
+            "type": [],
+            "itemID": "54771",
+            "maycontain": [],
+            "title": "Salmon Poached Eggs",
+            "price": "13.5",
+            "outOfStock": false
+          },
+          {
+            "maycontain": [],
+            "title": "Omelette",
+            "outOfStock": false,
+            "desc": "Make your Own Omelette with a Choice of | Cheese | Bacon | Ham | Mushrooms",
+            "price": "5.5",
+            "options": [
+              {
+                "preselArray": [
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ],
+                "options": [
+                  "Cheese",
+                  "Bacon",
+                  "Ham",
+                  "Mushrooms",
+                  "Gluten-free"
+                ],
+                "required": false,
+                "itemIDArray": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                "price": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                "title": "Options",
+                "type": "check"
+              }
+            ],
+            "itemID": "54771",
+            "contains": [
+              "circle-eggs",
+              "circle-milk",
+              "circle-mustard",
+              "circle-soya"
+            ],
+            "type": []
+          },
+          {
+            "desc": "Baked Sandwich with Ham and Cheese, Toped Sunny Side Up Fried Egg",
+            "options": [],
+            "contains": [
+              "circle-eggs",
+              "circle-gluten",
+              "circle-milk",
+              "circle-mustard"
+            ],
+            "maycontain": [],
+            "type": [],
+            "title": "Croque Madame",
+            "price": "13.5",
+            "itemID": "54771",
+            "outOfStock": false
+          },
+          {
+            "outOfStock": false,
+            "title": "Stuffed Baked Croissant",
+            "price": "12",
+            "maycontain": [],
+            "options": [],
+            "desc": "Freshly Baked Croisant Filled with Cheese, Egg white scrambled eggs and Spinach, Cheddar cheese",
+            "type": [],
+            "contains": [
+              "circle-eggs",
+              "circle-gluten",
+              "circle-milk",
+              "circle-mustard",
+              "circle-soya"
+            ],
+            "itemID": "54771"
+          },
+          {
+            "itemID": "54771",
+            "desc": "Fried Eggs, Grilled Halloumi and Lountza, Mushrooms, Tomatoes, Yoghurt with Walnuts and Honey",
+            "options": [
+              {
+                "title": "Options",
+                "itemIDArray": [
+                  ""
+                ],
+                "price": [
+                  ""
+                ],
+                "type": "check",
+                "options": [
+                  "Gluten-free"
+                ],
+                "required": false,
+                "preselArray": [
+                  false
+                ]
+              }
+            ],
+            "price": "12.5",
+            "type": [],
+            "contains": [
+              "circle-eggs",
+              "circle-milk",
+              "circle-mustard",
+              "circle-nuts",
+              "circle-peanuts",
+              "circle-soya"
+            ],
+            "maycontain": [],
+            "outOfStock": false,
+            "title": "Cyprus Breakfast"
+          },
+          {
+            "desc": "Fried Eggs, Streaky Bacon, Sausages, Tomato, Mushrooms, Baked Beans",
+            "price": "12.5",
+            "type": [],
+            "maycontain": [],
+            "contains": [
+              "circle-eggs",
+              "circle-mustard",
+              "circle-soya"
+            ],
+            "options": [
+              {
+                "options": [
+                  "Gluten-free"
+                ],
+                "price": [
+                  ""
+                ],
+                "required": false,
+                "preselArray": [
+                  false
+                ],
+                "title": "Options",
+                "itemIDArray": [
+                  ""
+                ],
+                "type": "check"
+              }
+            ],
+            "itemID": "54771",
+            "title": "English Breakfast",
+            "outOfStock": false
+          },
+          {
+            "desc": "Crispy Baked Bagel, Smoked Salmon, Philadelphia Cream Cheese, Cucumber Slices, Capers, Paprika, Red Onion Rings",
+            "maycontain": [],
+            "contains": [
+              "circle-fish",
+              "circle-gluten",
+              "circle-milk",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "type": [],
+            "itemID": "54771",
+            "outOfStock": false,
+            "options": [
+              {
+                "title": "Options",
+                "options": [
+                  "No onion",
+                  "Gluten-free"
+                ],
+                "price": [
+                  "",
+                  ""
+                ],
+                "type": "check",
+                "preselArray": [
+                  false,
+                  false
+                ],
+                "itemIDArray": [
+                  "",
+                  ""
+                ],
+                "required": false
+              }
+            ],
+            "price": "13.5",
+            "title": "Salmon Bagel"
+          },
+          {
+            "title": "Cheese Platter",
+            "maycontain": [],
+            "contains": [
+              "circle-gluten",
+              "circle-milk",
+              "circle-nuts",
+              "circle-peanuts",
+              "circle-sesame"
+            ],
+            "price": "11.5",
+            "itemID": "54771",
+            "desc": "Fresh Mozzarella, Brie Cheese, Halloumi Cheese and Fresh Fruits",
+            "outOfStock": false,
+            "options": [
+              {
+                "title": "Options",
+                "type": "check",
+                "itemIDArray": [
+                  ""
+                ],
+                "price": [
+                  ""
+                ],
+                "options": [
+                  "Gluten-free"
+                ],
+                "required": false,
+                "preselArray": [
+                  false
+                ]
+              }
+            ],
+            "type": []
+          },
+          {
+            "outOfStock": false,
+            "desc": "",
+            "type": [],
+            "itemID": "54771",
+            "maycontain": [],
+            "price": "7.5",
+            "title": "Make your own Pancakes",
+            "contains": [
+              "circle-eggs",
+              "circle-gluten",
+              "circle-milk",
+              "circle-nuts",
+              "circle-peanuts",
+              "circle-soya"
+            ],
+            "options": [
+              {
+                "type": "check",
+                "required": false,
+                "price": [
+                  "1.00",
+                  "1.00",
+                  "1.00",
+                  "1.00",
+                  "1.00",
+                  "1.00",
+                  "1.00",
+                  "0.5",
+                  "0.5",
+                  "0.5",
+                  "0.5"
+                ],
+                "preselArray": [
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ],
+                "options": [
+                  "Blackberries",
+                  "Blueberries",
+                  "Strawberries",
+                  "Banana",
+                  "Vanilla Ice Cream",
+                  "Chocolate Ice Cream",
+                  "Strawberry Ice Cream",
+                  "Maple Syrup",
+                  "Honey",
+                  "Nutella",
+                  "Biscuit"
+                ],
+                "itemIDArray": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                "title": "Fruit"
+              },
+              {
+                "preselArray": [
+                  false,
+                  false,
+                  false
+                ],
+                "itemIDArray": [
+                  "",
+                  "",
+                  ""
+                ],
+                "type": "radio",
+                "title": "Send as",
+                "options": [
+                  "Starter",
+                  "Main",
+                  "Desert"
+                ],
+                "price": [
+                  "",
+                  "",
+                  ""
+                ],
+                "required": true
+              }
+            ]
+          },
+          {
+            "options": [
+              {
+                "price": [
+                  ""
+                ],
+                "required": false,
+                "type": "check",
+                "preselArray": [
+                  false
+                ],
+                "options": [
+                  "Gluten-free"
+                ],
+                "itemIDArray": [
+                  ""
+                ],
+                "title": "Options"
+              }
+            ],
+            "contains": [
+              "circle-eggs",
+              "circle-milk",
+              "circle-mustard",
+              "circle-soya"
+            ],
+            "itemID": "54771",
+            "maycontain": [],
+            "desc": "Our Signature Omelette with Zucchinis, Bell Peppers, Chili, Asparagus, Smoked Turkey, Mint and Parmesan, Topped With Arugula",
+            "outOfStock": false,
+            "price": "11.5",
+            "type": [],
+            "title": "Marinas Frittata"
+          },
+          {
+            "itemID": "54771",
+            "title": "Crunchy Granola&nbsp;",
+            "desc": "Granola, Yogurt, Fresh and Dried Fruits",
+            "options": [
+              {
+                "required": false,
+                "itemIDArray": [
+                  ""
+                ],
+                "price": [
+                  ""
+                ],
+                "options": [
+                  "Make it vegan (with coconut milk)"
+                ],
+                "preselArray": [
+                  false
+                ],
+                "title": "Options",
+                "type": "check"
+              }
+            ],
+            "price": "7",
+            "contains": [
+              "circle-gluten",
+              "circle-milk",
+              "circle-nuts",
+              "circle-peanuts",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "outOfStock": false,
+            "maycontain": [],
+            "type": []
+          },
+          {
+            "options": [
+              {
+                "itemIDArray": [
+                  ""
+                ],
+                "price": [
+                  ""
+                ],
+                "options": [
+                  "Gluten-free"
+                ],
+                "type": "check",
+                "required": false,
+                "preselArray": [
+                  false
+                ],
+                "title": "Options"
+              }
+            ],
+            "price": "7.5",
+            "type": [],
+            "contains": [
+              "circle-milk",
+              "circle-nuts",
+              "circle-peanuts"
+            ],
+            "title": "Yogurt and Strawberries",
+            "itemID": "54771",
+            "maycontain": [],
+            "outOfStock": false,
+            "desc": "Strained Yogurt with Strawberries, Honey and Walnuts"
+          },
+          {
+            "outOfStock": false,
+            "itemID": "54117",
+            "options": [
+              {
+                "itemIDArray": [
+                  ""
+                ],
+                "options": [
+                  "Gluten-free"
+                ],
+                "title": "Options",
+                "type": "check",
+                "required": false,
+                "price": [
+                  ""
+                ],
+                "preselArray": [
+                  false
+                ]
+              }
+            ],
+            "type": [],
+            "maycontain": [],
+            "contains": [],
+            "price": "10",
+            "desc": "Three Poached Eggs Served On English Muffins, Your Choice of Bacon or Smoked Salmon, Hollandaise Sauce",
+            "title": "Bacon Poached Eggs"
+          },
+          {
+            "type": [],
+            "options": [
+              {
+                "itemIDArray": [
+                  ""
+                ],
+                "type": "check",
+                "title": "Options",
+                "preselArray": [
+                  false
+                ],
+                "required": false,
+                "options": [
+                  "No onion"
+                ],
+                "price": [
+                  ""
+                ]
+              }
+            ],
+            "contains": [],
+            "outOfStock": false,
+            "title": "Guacamole Vegan Bun",
+            "desc": "Avocado, Red Kidney Beans, Cherry Tomatoes, Red Onion",
+            "maycontain": [],
+            "price": "10",
+            "itemID": "54117"
+          }
+        ]
+      }
+    },
+    {
+      "2": {
+        "times": "00:00 - 00:00",
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "catTitle": "Appetizers",
+        "itemsarray": [
+          {
+            "price": "13",
+            "contains": [
+              "circle-eggs",
+              "circle-gluten",
+              "circle-mustard",
+              "circle-sesame",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "options": [
+              {
+                "price": [
+                  "",
+                  "",
+                  ""
+                ],
+                "preselArray": [
+                  false,
+                  false,
+                  false
+                ],
+                "required": true,
+                "type": "radio",
+                "title": "Send as",
+                "itemIDArray": [
+                  "",
+                  "",
+                  ""
+                ],
+                "options": [
+                  "Starter",
+                  "Second Starter",
+                  "Main"
+                ]
+              }
+            ],
+            "desc": "Sea Bass, Fresh Cilantro Jalapeno Sauce, Wakame Salad, Balik Pearls",
+            "maycontain": [],
+            "type": [
+              "circle-vegetarian"
+            ],
+            "title": "Seabass Carpaccio",
+            "itemID": "54771",
+            "outOfStock": false
+          },
+          {
+            "desc": "Thinly Sliced Beef, Capers, Parmesan Flakes, Strawberry, Pine Nuts, Foie Gras, Truffle Vinaigrette",
+            "contains": [
+              "circle-eggs",
+              "circle-gluten",
+              "circle-milk",
+              "circle-mustard",
+              "circle-nuts",
+              "circle-so2"
+            ],
+            "itemID": "54771",
+            "outOfStock": false,
+            "options": [],
+            "price": "16.5",
+            "title": "Beef Carpaccio",
+            "type": [],
+            "maycontain": []
+          },
+          {
+            "contains": [
+              "circle-eggs",
+              "circle-fish",
+              "circle-gluten",
+              "circle-milk",
+              "circle-so2"
+            ],
+            "desc": "Fresh Salmon, Avocado Ratatouille, Mango, Quail Eggs, Tomato and cilantro, Sour Cream, Sweet Chili Dressing",
+            "type": [
+              "circle-vegetarian"
+            ],
+            "options": [],
+            "outOfStock": false,
+            "price": "12.5",
+            "maycontain": [],
+            "title": "Salmon Ceviche",
+            "itemID": "54771"
+          },
+          {
+            "options": [
+              {
+                "price": [
+                  "2.50"
+                ],
+                "itemIDArray": [
+                  ""
+                ],
+                "options": [
+                  "Extra tempura prawn"
+                ],
+                "title": "Options",
+                "required": false,
+                "type": "check",
+                "preselArray": [
+                  false
+                ]
+              }
+            ],
+            "contains": [
+              "circle-crustaceans",
+              "circle-eggs",
+              "circle-gluten",
+              "circle-lupin",
+              "circle-mustard",
+              "circle-so2"
+            ],
+            "price": "14.5",
+            "title": "Tempura Prawns",
+            "maycontain": [],
+            "type": [
+              "circle-vegetarian"
+            ],
+            "itemID": "54771",
+            "outOfStock": false,
+            "desc": "Fried Prawns, Mango, Wasabi Mayonnaise, Sweet Chili Sauce"
+          },
+          {
+            "itemID": "54771",
+            "options": [],
+            "type": [
+              "circle-vegetarian"
+            ],
+            "maycontain": [],
+            "outOfStock": false,
+            "price": "15",
+            "title": "Calypso Octopus (150 gr)",
+            "desc": "Grilled Octopus, Herbed Fava, Spring Onion, Cilantro, Caper Verge",
+            "contains": [
+              "circle-milk",
+              "circle-lupin",
+              "circle-molluscs"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "3": {
+        "catTitle": "Oysters",
+        "times": "00:00 - 00:00",
+        "itemsarray": [
+          {
+            "desc": "Sauce for Oysters, Mignonette Sauce, Ponzu Sauce, Chilli Tobasco Sauce",
+            "contains": [
+              "circle-molluscs",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "options": [
+              {
+                "required": true,
+                "options": [
+                  "x1",
+                  "x6",
+                  "x12"
+                ],
+                "price": [
+                  "3.5",
+                  "21",
+                  "42"
+                ],
+                "itemIDArray": [
+                  "",
+                  "",
+                  ""
+                ],
+                "title": "Number of Pieces",
+                "preselArray": [
+                  false,
+                  false,
+                  false
+                ],
+                "type": "radio"
+              }
+            ],
+            "outOfStock": false,
+            "itemID": "54771",
+            "type": [
+              "circle-vegetarian"
+            ],
+            "price": "0",
+            "title": "Fin De Claire",
+            "maycontain": []
+          }
+        ],
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    },
+    {
+      "4": {
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "times": "00:00 - 00:00",
+        "itemsarray": [
+          {
+            "type": [
+              "circle-vegetarian"
+            ],
+            "outOfStock": false,
+            "itemID": "54771",
+            "contains": [
+              "circle-fish",
+              "circle-mustard",
+              "circle-so2"
+            ],
+            "maycontain": [],
+            "title": "Sashimi",
+            "desc": "Slices of Raw Fish (5pcs)",
+            "options": [
+              {
+                "price": [
+                  "14.5",
+                  "13"
+                ],
+                "itemIDArray": [
+                  "",
+                  ""
+                ],
+                "preselArray": [
+                  false,
+                  false
+                ],
+                "options": [
+                  "Bluefin Tuna",
+                  "Salmon"
+                ],
+                "title": "Please Select",
+                "required": true,
+                "type": "radio"
+              },
+              {
+                "required": true,
+                "options": [
+                  "Starter",
+                  "Second Starter",
+                  "Main"
+                ],
+                "price": [
+                  "",
+                  "",
+                  ""
+                ],
+                "itemIDArray": [
+                  "",
+                  "",
+                  ""
+                ],
+                "preselArray": [
+                  false,
+                  false,
+                  false
+                ],
+                "type": "radio",
+                "title": "Send as"
+              }
+            ],
+            "price": "0"
+          },
+          {
+            "title": "Nigiri",
+            "contains": [
+              "circle-fish",
+              "circle-mustard",
+              "circle-so2"
+            ],
+            "itemID": "54771",
+            "price": "0",
+            "maycontain": [],
+            "options": [
+              {
+                "preselArray": [
+                  false,
+                  false
+                ],
+                "type": "radio",
+                "price": [
+                  "8",
+                  "7"
+                ],
+                "title": "Please Select",
+                "options": [
+                  "Bluefin Tuna",
+                  "Salmon"
+                ],
+                "required": true,
+                "itemIDArray": [
+                  "",
+                  ""
+                ]
+              }
+            ],
+            "desc": "Slices of Raw Fish on Flavored Sushi Rice (2pcs)",
+            "outOfStock": false,
+            "type": [
+              "circle-vegetarian"
+            ]
+          },
+          {
+            "itemID": "54771",
+            "outOfStock": false,
+            "type": [
+              "circle-vegetarian"
+            ],
+            "title": "Sushi Platter (29pcs)",
+            "options": [],
+            "desc": "Three Kinds of Maki | California, Tiger, Spicy Tuna, Salmon and Tuna Nigiri",
+            "contains": [
+              "circle-crustaceans",
+              "circle-eggs",
+              "circle-fish",
+              "circle-gluten",
+              "circle-milk",
+              "circle-mustard",
+              "circle-molluscs",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "maycontain": [],
+            "price": "44.5"
+          },
+          {
+            "options": [],
+            "desc": "Crab Stick, Philadelphia Cheese, Cucumber, Avocado, Tobiko, Teriyaki",
+            "contains": [
+              "circle-crustaceans",
+              "circle-eggs",
+              "circle-fish",
+              "circle-milk",
+              "circle-mustard",
+              "circle-molluscs",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "type": [
+              "circle-vegetarian"
+            ],
+            "maycontain": [],
+            "title": "California Roll (8pcs)",
+            "itemID": "54771",
+            "price": "13.5",
+            "outOfStock": false
+          },
+          {
+            "type": [
+              "circle-vegan"
+            ],
+            "title": "Vegetarian Tempura Roll (8pcs)",
+            "options": [],
+            "maycontain": [],
+            "desc": "Tempura Vegetables | Zucchini, Carrot, White Onion",
+            "outOfStock": false,
+            "itemID": "54771",
+            "price": "12",
+            "contains": [
+              "circle-gluten",
+              "circle-mustard",
+              "circle-so2",
+              "circle-soya"
+            ]
+          },
+          {
+            "price": "15",
+            "options": [],
+            "desc": "Avocado, Prawn Tempura, Crunchy Tempura",
+            "contains": [
+              "circle-crustaceans",
+              "circle-eggs",
+              "circle-gluten",
+              "circle-mustard",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "maycontain": [],
+            "title": "Tiger Roll (8pcs)",
+            "type": [
+              "circle-vegetarian"
+            ],
+            "itemID": "54771",
+            "outOfStock": false
+          },
+          {
+            "price": "15.5",
+            "type": [],
+            "options": [],
+            "maycontain": [],
+            "contains": [
+              "circle-eggs",
+              "circle-fish",
+              "circle-gluten",
+              "circle-mustard",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "outOfStock": false,
+            "itemID": "54771",
+            "desc": "Tuna, Japanese Mayonnaise, Crunchy Tempura, Spring Onion, Siracha",
+            "title": "Spicy Tuna Roll (8pcs)"
+          },
+          {
+            "outOfStock": false,
+            "itemID": "54771",
+            "title": "Marina Breeze Roll (8 pcs)",
+            "options": [],
+            "contains": [
+              "circle-crustaceans",
+              "circle-eggs",
+              "circle-fish",
+              "circle-milk",
+              "circle-mustard",
+              "circle-molluscs",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "desc": "Tuna and Salmon Sashimi on top of a California Roll Served with Teriyaki and Spicy Mayonnaise.",
+            "price": "16.00",
+            "type": [],
+            "maycontain": []
+          },
+          {
+            "desc": "Crab stick, Avocado, Cucumber, Tobico, Mango Topping, Japanese Mayonnaise and Orange Teriyaki Sauce.",
+            "options": [],
+            "outOfStock": false,
+            "type": [],
+            "price": "14.00",
+            "maycontain": [],
+            "title": "Crazy Mango Roll (8 pcs)",
+            "contains": [
+              "circle-crustaceans",
+              "circle-fish",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "itemID": "54771"
+          },
+          {
+            "price": "15.00",
+            "title": "Salmon Twist Roll (8 pcs)",
+            "contains": [
+              "circle-milk",
+              "circle-molluscs",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "desc": "Fresh Salmon, Pickled Ginger, Wakame, Cream Cheese, B;ack and White Sesame Seeds, Teriyaki Sauce.",
+            "itemID": "54771",
+            "type": [],
+            "options": [],
+            "outOfStock": false,
+            "maycontain": []
+          },
+          {
+            "maycontain": [],
+            "itemID": "54117",
+            "type": [],
+            "desc": "Avocado, mango, cucumber",
+            "title": "Vegan Tempura Roll (8pcs)",
+            "outOfStock": false,
+            "options": [],
+            "price": "12",
+            "contains": []
+          }
+        ],
+        "catTitle": "Selection Of Maki and Sushi"
+      }
+    },
+    {
+      "5": {
+        "times": "00:00 - 00:00",
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "itemsarray": [
+          {
+            "maycontain": [],
+            "outOfStock": false,
+            "options": [
+              {
+                "type": "radio",
+                "price": [
+                  "",
+                  ""
+                ],
+                "preselArray": [
+                  false,
+                  false
+                ],
+                "itemIDArray": [
+                  "",
+                  ""
+                ],
+                "required": true,
+                "title": "Send as",
+                "options": [
+                  "Starter",
+                  "Main"
+                ]
+              },
+              {
+                "type": "check",
+                "title": "Options",
+                "itemIDArray": [
+                  ""
+                ],
+                "price": [
+                  ""
+                ],
+                "options": [
+                  "Gluten-free"
+                ],
+                "required": false,
+                "preselArray": [
+                  false
+                ]
+              }
+            ],
+            "itemID": "54771",
+            "type": [],
+            "contains": [
+              "circle-celery",
+              "circle-eggs",
+              "circle-gluten",
+              "circle-milk",
+              "circle-mustard",
+              "circle-molluscs",
+              "circle-nuts",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "desc": "Radicchio, Arugula, Cherry Tomatoes, Strawberries, Radish, Goat Cheese, Dried Figs, Pomegranate, Walnuts.",
+            "price": "16.50",
+            "title": "Goat Cheese Salad"
+          },
+          {
+            "options": [],
+            "price": "19.00",
+            "itemID": "54771",
+            "title": "Crab And Prawn Salad",
+            "outOfStock": false,
+            "contains": [
+              "circle-crustaceans",
+              "circle-fish",
+              "circle-gluten",
+              "circle-mustard",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "desc": "Crab, Prawns Tempura, Chives, Jalapeno, Zest, Avocado Ratatouille, Arugula Salad, Spirulina Flakes, Chef Special Dressing.",
+            "type": [],
+            "maycontain": []
+          },
+          {
+            "options": [
+              {
+                "required": false,
+                "options": [
+                  "Gluten-free"
+                ],
+                "itemIDArray": [
+                  ""
+                ],
+                "price": [
+                  ""
+                ],
+                "preselArray": [
+                  false
+                ],
+                "type": "check",
+                "title": "Options"
+              }
+            ],
+            "title": "Harvest Salad",
+            "outOfStock": false,
+            "price": "14.50",
+            "desc": "Mixed Leaves, Green Apples, Coji Berries, Avocado, Cherry Tomatoes, Parmesan Flakes, Cucumber Wedges, Parsnip Crunch Balsamic Dressing.",
+            "maycontain": [],
+            "itemID": "54771",
+            "contains": [
+              "circle-gluten",
+              "circle-milk",
+              "circle-mustard",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "type": []
+          },
+          {
+            "price": "18.50",
+            "title": "Crispy Duck Salad",
+            "contains": [
+              "circle-eggs",
+              "circle-gluten",
+              "circle-lupin",
+              "circle-sesame",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "options": [],
+            "desc": "Crispy Duck, Arugula, Orange Segments, Radish, Ginger, Sesame Seeds.",
+            "outOfStock": false,
+            "type": [],
+            "maycontain": [],
+            "itemID": "54771"
+          },
+          {
+            "price": "15.50",
+            "itemID": "54771",
+            "outOfStock": false,
+            "desc": "Sushi Rice Topped With Salmon, Sourimi, Mango, Wakame, Edamame Beans, Radish, Cucumber, Avocado, Jalapenos, Sesame Calamnsi Dressing.",
+            "contains": [],
+            "options": [],
+            "type": [],
+            "maycontain": [
+              "circle-crustaceans",
+              "circle-fish",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "title": "Marina Poke Bowl"
+          }
+        ],
+        "catTitle": "Salads"
+      }
+    },
+    {
+      "6": {
+        "itemsarray": [
+          {
+            "maycontain": [],
+            "desc": "Porcini Mushrooms, Carnaroli Rice, Green Asparagus, Parmesan Flakes and Truffle.",
+            "type": [],
+            "outOfStock": false,
+            "options": [
+              {
+                "price": [
+                  "",
+                  ""
+                ],
+                "preselArray": [
+                  false,
+                  false
+                ],
+                "options": [
+                  "Starter",
+                  "Main"
+                ],
+                "title": "Send as",
+                "type": "radio",
+                "itemIDArray": [
+                  "",
+                  ""
+                ],
+                "required": true
+              }
+            ],
+            "price": "18.50",
+            "title": "Porcini Mushroom Risotto",
+            "contains": [
+              "circle-celery",
+              "circle-eggs",
+              "circle-gluten",
+              "circle-milk",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "itemID": "54771"
+          },
+          {
+            "options": [],
+            "maycontain": [],
+            "type": [],
+            "contains": [
+              "circle-eggs",
+              "circle-fish",
+              "circle-gluten",
+              "circle-milk"
+            ],
+            "outOfStock": false,
+            "desc": "Home Made Ravioli Filled with Smoked Salmon and Ricotta Cheese, Basil, Parmesan Silvers in a Rich Creamy Tomato Sauce.",
+            "itemID": "54771",
+            "price": "19.00",
+            "title": "Salmon Ravioli"
+          },
+          {
+            "maycontain": [],
+            "price": "14.50",
+            "contains": [
+              "circle-eggs",
+              "circle-gluten",
+              "circle-milk",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "title": "Spaghetti Carbonara",
+            "type": [],
+            "desc": "Bacon, Spring Onion, Parmesan, Garlic Cream Sauce .",
+            "options": [],
+            "outOfStock": false,
+            "itemID": "54771"
+          },
+          {
+            "desc": "Homemade Spinach Ricotta Ravioli, Blue Cheese Sauce.",
+            "type": [],
+            "contains": [],
+            "maycontain": [
+              "circle-eggs",
+              "circle-gluten",
+              "circle-milk",
+              "circle-so2"
+            ],
+            "price": "17.00",
+            "title": "Spinach Ricotta Ravioli",
+            "outOfStock": false,
+            "options": [],
+            "itemID": "54771"
+          },
+          {
+            "desc": "Pan Fried Prawns, Calamari Bits, Spring Onion, Garlic, Cherry Tomatoes, Ouzo, Rich Lobster Bisque Flavored with Paprica and Star Anise, Parmesan Flakes.",
+            "type": [],
+            "outOfStock": false,
+            "price": "22.00",
+            "contains": [
+              "circle-celery",
+              "circle-crustaceans",
+              "circle-gluten",
+              "circle-molluscs",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "maycontain": [],
+            "options": [],
+            "itemID": "54771",
+            "title": "Prawn and Calamari Penne"
+          },
+          {
+            "contains": [],
+            "desc": "Porcini Mushrooms, Carnaroli Rice, Green Asparagus and Truffle",
+            "type": [],
+            "outOfStock": false,
+            "options": [],
+            "maycontain": [],
+            "itemID": "54117",
+            "price": "18.50",
+            "title": "Vegan Risotto"
+          }
+        ],
+        "catTitle": "Pasta",
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "times": "00:00 - 00:00"
+      }
+    },
+    {
+      "7": {
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "itemsarray": [
+          {
+            "type": [],
+            "price": "35.00",
+            "outOfStock": false,
+            "options": [
+              {
+                "required": true,
+                "price": [
+                  "",
+                  ""
+                ],
+                "preselArray": [
+                  false,
+                  false
+                ],
+                "itemIDArray": [
+                  "",
+                  ""
+                ],
+                "title": "Choose a side",
+                "options": [
+                  "Only Vegetables",
+                  "No Potatoes"
+                ],
+                "type": "radio"
+              }
+            ],
+            "itemID": "54771",
+            "maycontain": [],
+            "desc": "Best Choice of Wild Black Cod from Alaska, Creamed Bok Choy, Miso sauce.",
+            "title": "Miso Marinated Black Cod Fillet&nbsp;",
+            "contains": [
+              "circle-fish",
+              "circle-milk",
+              "circle-soya"
+            ]
+          },
+          {
+            "desc": "Pan Seared Fresh Salmon, Beluga Lentils and Edamame Ragout, Yuzu Beurre blanc.",
+            "maycontain": [],
+            "contains": [
+              "circle-fish",
+              "circle-milk",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "price": "24.50",
+            "outOfStock": false,
+            "options": [],
+            "itemID": "54771",
+            "type": [],
+            "title": "Yuzu Salmon Fillet"
+          },
+          {
+            "price": "17.50",
+            "options": [],
+            "type": [],
+            "itemID": "54771",
+            "outOfStock": false,
+            "maycontain": [],
+            "contains": [
+              "circle-celery",
+              "circle-eggs",
+              "circle-gluten",
+              "circle-mustard",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "title": "Golden Fried Baby Calamari",
+            "desc": "Deep Fried Baby Calamari, Chilli Mayonnaise."
+          },
+          {
+            "desc": "Grilled Herbed Sea Bass Fillet, Edamame and Wakame Ragout, Arugula, Soy Dressing.",
+            "title": "Sea Bass",
+            "contains": [
+              "circle-celery",
+              "circle-gluten",
+              "circle-milk",
+              "circle-mustard",
+              "circle-nuts",
+              "circle-sesame",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "maycontain": [],
+            "options": [],
+            "outOfStock": false,
+            "itemID": "54771",
+            "type": [],
+            "price": "23.50"
+          },
+          {
+            "options": [],
+            "price": "29.50",
+            "type": [],
+            "desc": "Grilled Marinated Tiger Prawns, Pan Seared Salmon, Grilled Seabass, Fennel and Asparagus Ragout, Pesto Sauce.",
+            "maycontain": [],
+            "title": "Seaside Trio Comb",
+            "contains": [
+              "circle-crustaceans",
+              "circle-fish",
+              "circle-milk",
+              "circle-nuts",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "itemID": "54771",
+            "outOfStock": false
+          }
+        ],
+        "catTitle": "Main Dishes Seafood",
+        "times": "00:00 - 00:00"
+      }
+    },
+    {
+      "8": {
+        "catTitle": "Main Dishes Meat",
+        "times": "00:00 - 00:00",
+        "itemsarray": [
+          {
+            "itemID": "54771",
+            "outOfStock": false,
+            "price": "22.00",
+            "title": "Pork Tenderloin",
+            "contains": [
+              "circle-fish",
+              "circle-gluten",
+              "circle-milk",
+              "circle-mustard",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "desc": "Pan Seared Pork Tenderloin, Green Apple and Pumpkin Ragout, Wholegrain Mustard Sauce.",
+            "type": [],
+            "maycontain": [],
+            "options": [
+              {
+                "itemIDArray": [
+                  "",
+                  ""
+                ],
+                "price": [
+                  "",
+                  ""
+                ],
+                "type": "radio",
+                "options": [
+                  "Only Vegetables",
+                  "Only New Potatoes"
+                ],
+                "title": "Choose a side",
+                "required": false,
+                "preselArray": [
+                  false,
+                  false
+                ]
+              },
+              {
+                "required": false,
+                "options": [
+                  "Gluten-free (no sauce)"
+                ],
+                "preselArray": [
+                  false
+                ],
+                "itemIDArray": [
+                  ""
+                ],
+                "price": [
+                  ""
+                ],
+                "type": "check",
+                "title": "Options"
+              }
+            ]
+          },
+          {
+            "itemID": "54771",
+            "contains": [
+              "circle-celery",
+              "circle-eggs",
+              "circle-gluten",
+              "circle-milk",
+              "circle-mustard",
+              "circle-nuts",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "outOfStock": false,
+            "maycontain": [],
+            "price": "36.00",
+            "desc": "Grilled Beef Tenderloin on Mushroom Ragout, Rich Truffle Sauce.",
+            "options": [
+              {
+                "title": "Please choose",
+                "required": true,
+                "itemIDArray": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                "price": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                "type": "radio",
+                "preselArray": [
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ],
+                "options": [
+                  "Rare",
+                  "Medium Rare",
+                  "Medium",
+                  "Medium Well",
+                  "Well Done"
+                ]
+              },
+              {
+                "title": "Choose a side",
+                "itemIDArray": [
+                  "",
+                  ""
+                ],
+                "type": "radio",
+                "options": [
+                  "Only Vegetables",
+                  "Only Potatoes"
+                ],
+                "required": true,
+                "preselArray": [
+                  false,
+                  false
+                ],
+                "price": [
+                  "",
+                  ""
+                ]
+              }
+            ],
+            "title": "Beef Tenderloin (250 gr)",
+            "type": []
+          },
+          {
+            "outOfStock": false,
+            "maycontain": [],
+            "desc": "Grilled Australian Grass Fed Rib Eye Steak, Onion Rings, Sweet Potato Fries, Two kinds of Mustard.",
+            "itemID": "54771",
+            "options": [
+              {
+                "itemIDArray": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                "required": true,
+                "price": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                "options": [
+                  "Rare",
+                  "Medium Rare",
+                  "Medium",
+                  "Medium Well",
+                  "Well Done"
+                ],
+                "title": "Please choose",
+                "type": "radio",
+                "preselArray": [
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ]
+              }
+            ],
+            "contains": [
+              "circle-gluten",
+              "circle-milk",
+              "circle-mustard",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "price": "34.00",
+            "title": "Rib Eye Steak (300 gr)",
+            "type": []
+          },
+          {
+            "options": [],
+            "maycontain": [],
+            "outOfStock": false,
+            "itemID": "54771",
+            "contains": [
+              "circle-celery",
+              "circle-fish",
+              "circle-gluten",
+              "circle-milk",
+              "circle-mustard",
+              "circle-nuts",
+              "circle-sesame",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "type": [],
+            "title": "Grilled Chicken",
+            "desc": "Marinated Half Chicken with Cilantro, Ginger, Garlic, Citronette Sauce.",
+            "price": "17.50"
+          },
+          {
+            "title": "Duck Breast",
+            "options": [
+              {
+                "required": true,
+                "itemIDArray": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                "price": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                "options": [
+                  "Rare",
+                  "Medium Rare",
+                  "Medium",
+                  "Medium Well",
+                  "Well Done"
+                ],
+                "type": "radio",
+                "preselArray": [
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ],
+                "title": "Please choose"
+              }
+            ],
+            "price": "23.50",
+            "desc": "Honey Glaze Duck Breast, Mash with Foie Gras, Green Apple and Mushrooms, Maple Syrup Sauce.",
+            "itemID": "54771",
+            "maycontain": [],
+            "outOfStock": false,
+            "contains": [
+              "circle-milk",
+              "circle-so2",
+              "circle-soya"
+            ],
+            "type": []
+          }
+        ],
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    },
+    {
+      "9": {
+        "catTitle": "Platters To Share",
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "times": "00:00 - 00:00",
+        "itemsarray": [
+          {
+            "desc": "Blue Cheese, Fresh Mozzarella, Brie Cheese, Parmesan, Halloumi Cheese, Freshly Cut Seasonal and Exotic Fruits.",
+            "type": [],
+            "maycontain": [],
+            "contains": [
+              "circle-gluten",
+              "circle-milk",
+              "circle-so2"
+            ],
+            "outOfStock": false,
+            "price": "24.50",
+            "options": [
+              {
+                "preselArray": [
+                  false,
+                  false
+                ],
+                "options": [
+                  "Starter",
+                  "Desert"
+                ],
+                "price": [
+                  "",
+                  ""
+                ],
+                "required": true,
+                "type": "radio",
+                "itemIDArray": [
+                  "",
+                  ""
+                ],
+                "title": "Send as"
+              }
+            ],
+            "itemID": "54771",
+            "title": "Cheese and Fruit Platter"
+          },
+          {
+            "maycontain": [],
+            "outOfStock": false,
+            "options": [
+              {
+                "title": "Send as",
+                "options": [
+                  "Starter",
+                  "Desert"
+                ],
+                "price": [
+                  "",
+                  ""
+                ],
+                "itemIDArray": [
+                  "",
+                  ""
+                ],
+                "preselArray": [
+                  false,
+                  false
+                ],
+                "required": true,
+                "type": "radio"
+              }
+            ],
+            "itemID": "54771",
+            "title": "Fruit Platter",
+            "type": [],
+            "desc": "Freshly Cut Seasonal and Exotic Fruits.",
+            "price": "22.50",
+            "contains": []
+          }
+        ]
+      }
+    },
+    {
+      "10": {
+        "itemsarray": [
+          {
+            "desc": "Homemade Zesty Orange Pie, Mastiha Ice Cream",
+            "options": [],
+            "outOfStock": false,
+            "contains": [],
+            "maycontain": [],
+            "price": "8.00",
+            "title": "Orange Pie",
+            "type": [],
+            "itemID": "54771"
+          },
+          {
+            "type": [],
+            "outOfStock": false,
+            "options": [],
+            "desc": "molten bitter chocolate cake .strawberry ice cream",
+            "title": "Chocolate temptation",
+            "maycontain": [],
+            "price": "8.00",
+            "contains": [],
+            "itemID": "54771"
+          },
+          {
+            "price": "8.00",
+            "maycontain": [],
+            "desc": "orange flavoured creme brule .torched caramel ,vanilla ic cream",
+            "options": [],
+            "type": [],
+            "outOfStock": false,
+            "itemID": "54771",
+            "title": "Orange creme brule",
+            "contains": []
+          },
+          {
+            "contains": [],
+            "options": [],
+            "outOfStock": false,
+            "itemID": "54771",
+            "price": "8.00",
+            "title": "Baked cheesecake",
+            "maycontain": [],
+            "type": [],
+            "desc": "rich cream filling ,berry sauce .lemon sorbet"
+          },
+          {
+            "contains": [],
+            "maycontain": [],
+            "outOfStock": false,
+            "itemID": "54771",
+            "options": [],
+            "title": "Tiramisu",
+            "desc": "coffee flavor tiramisu ,chocolate sauce, vanilla ice cream",
+            "price": "8.00",
+            "type": []
+          },
+          {
+            "type": [],
+            "options": [
+              {
+                "preselArray": [
+                  false,
+                  false,
+                  false,
+                  false
+                ],
+                "price": [
+                  "2.00",
+                  "4.00",
+                  "6.00",
+                  "8.00"
+                ],
+                "title": "Vanilla Ice Cream",
+                "options": [
+                  "1 scoop",
+                  "2 scoops",
+                  "3 scoops",
+                  "4 scoops"
+                ],
+                "type": "radio",
+                "required": false,
+                "itemIDArray": [
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ],
+            "contains": [],
+            "itemID": "54771",
+            "outOfStock": false,
+            "desc": "Choose between Vanilla, Chocolate, Mastiha, Strawberry Ice Cream and Lemon Sorbet",
+            "price": "0",
+            "title": "Selection Of Ice Creams &amp; Sorbets",
+            "maycontain": []
+          }
+        ],
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "times": "00:00 - 00:00",
+        "catTitle": "Desserts"
+      }
+    },
+    {
+      "11": {
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "catTitle": "Hot Coffees",
+        "times": "00:00 - 00:00",
+        "itemsarray": [
+          {
+            "desc": "Shot of espresso.",
+            "contains": [],
+            "itemID": "54117",
+            "price": "3.50",
+            "type": [],
+            "outOfStock": false,
+            "title": "Espresso",
+            "options": [],
+            "maycontain": []
+          },
+          {
+            "options": [],
+            "itemID": "54117",
+            "desc": "Shot of espresso with a spoon of frothy steamed milk.",
+            "type": [],
+            "maycontain": [],
+            "contains": [],
+            "outOfStock": false,
+            "price": "3.50",
+            "title": "Espresso Macchiato"
+          },
+          {
+            "maycontain": [],
+            "contains": [],
+            "outOfStock": false,
+            "desc": "Double espresso coffee.",
+            "options": [],
+            "price": "4.50",
+            "type": [],
+            "title": "Espresso Dopio",
+            "itemID": "54117"
+          },
+          {
+            "type": [],
+            "outOfStock": false,
+            "options": [],
+            "contains": [],
+            "itemID": "54117",
+            "price": "4.50",
+            "desc": "Shot of espresso with hot water.",
+            "title": "Americano",
+            "maycontain": []
+          },
+          {
+            "maycontain": [],
+            "title": "Nescafe",
+            "itemID": "54117",
+            "desc": "Instant coffee.",
+            "outOfStock": false,
+            "price": "4.50",
+            "contains": [],
+            "type": [],
+            "options": []
+          },
+          {
+            "maycontain": [],
+            "options": [],
+            "contains": [],
+            "price": "5.00",
+            "desc": "Brewed coffee served black (ask for milk)",
+            "itemID": "54117",
+            "type": [],
+            "title": "Filter coffee",
+            "outOfStock": false
+          },
+          {
+            "title": "Espresso Corretto",
+            "options": [],
+            "outOfStock": false,
+            "desc": "With coffee liquor.",
+            "maycontain": [],
+            "type": [],
+            "price": "5.00",
+            "contains": [],
+            "itemID": "54117"
+          },
+          {
+            "price": "5.00",
+            "itemID": "54117",
+            "maycontain": [],
+            "outOfStock": false,
+            "title": "Cappuccino",
+            "desc": "Shot of espresso topped with frothy steamed milk.",
+            "type": [],
+            "contains": [],
+            "options": []
+          },
+          {
+            "title": "Cafe Au Lait",
+            "price": "5.50",
+            "desc": "Shot of espresso with hot frothy milk.",
+            "options": [],
+            "type": [],
+            "outOfStock": false,
+            "maycontain": [],
+            "itemID": "54117",
+            "contains": []
+          },
+          {
+            "options": [],
+            "title": "Honey And Cinnamon Creme Brulee Latte",
+            "price": "6.00",
+            "maycontain": [],
+            "type": [],
+            "contains": [],
+            "itemID": "54117",
+            "outOfStock": false,
+            "desc": "Shot of espresso, honey, cinnamon and brown sugar."
+          },
+          {
+            "price": "7.00",
+            "title": "Baileys Latte",
+            "itemID": "54117",
+            "options": [],
+            "desc": "Shot of espresso with hot frothy milk, shot baileys&nbsp;",
+            "contains": [],
+            "maycontain": [],
+            "outOfStock": false,
+            "type": []
+          },
+          {
+            "contains": [],
+            "itemID": "54117",
+            "price": "3.50",
+            "desc": "",
+            "title": "Double Cyprus Coffee",
+            "maycontain": [],
+            "outOfStock": false,
+            "options": [],
+            "type": []
+          }
+        ]
+      }
+    },
+    {
+      "12": {
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "catTitle": "Chocolate",
+        "itemsarray": [
+          {
+            "itemID": "54117",
+            "desc": "",
+            "contains": [],
+            "options": [],
+            "price": "5.00",
+            "outOfStock": false,
+            "maycontain": [],
+            "type": [],
+            "title": "Hot Chocolate"
+          },
+          {
+            "itemID": "54117",
+            "contains": [],
+            "options": [],
+            "desc": "Two whole-grain paddies, cucumber, tomato, juicy beef and our signature sauce.",
+            "type": [],
+            "outOfStock": false,
+            "price": "7.00",
+            "maycontain": [],
+            "title": "Baileys Hot Chocolate"
+          },
+          {
+            "type": [],
+            "options": [],
+            "outOfStock": false,
+            "title": "Luxurious Tea",
+            "price": "5.00",
+            "itemID": "54117",
+            "contains": [],
+            "desc": "For our wide selection of teas and infusions, please ask your waiter for our display box.",
+            "maycontain": []
+          }
+        ],
+        "times": "00:00 - 00:00"
+      }
+    },
+    {
+      "13": {
+        "times": "00:00 - 00:00",
+        "itemsarray": [
+          {
+            "outOfStock": false,
+            "contains": [],
+            "desc": "Cold instant coffee.",
+            "maycontain": [],
+            "options": [],
+            "type": [],
+            "title": "Frappe",
+            "price": "4.50",
+            "itemID": "54117"
+          },
+          {
+            "itemID": "54117",
+            "desc": "Iced double espresso coffee..",
+            "title": "Freddo Espresso",
+            "type": [],
+            "outOfStock": false,
+            "maycontain": [],
+            "price": "5.00",
+            "options": [],
+            "contains": []
+          },
+          {
+            "desc": "Iced double espresso with frothy milk.",
+            "contains": [],
+            "title": "Freddo Cappuccino",
+            "price": "5.50",
+            "outOfStock": false,
+            "type": [],
+            "maycontain": [],
+            "itemID": "54117",
+            "options": []
+          },
+          {
+            "desc": "Milk double espresso coffee with frothy milk.",
+            "price": "5.50",
+            "outOfStock": false,
+            "itemID": "54117",
+            "contains": [],
+            "title": "Iced Latte",
+            "type": [],
+            "maycontain": [],
+            "options": []
+          },
+          {
+            "options": [],
+            "contains": [],
+            "desc": "Iced double espresso coffee, shot of baileys.",
+            "type": [],
+            "price": "7.00",
+            "outOfStock": false,
+            "itemID": "54117",
+            "title": "Baileys Iced Coffee",
+            "maycontain": []
+          },
+          {
+            "maycontain": [],
+            "price": "5.00",
+            "title": "Iced Chocolate",
+            "options": [],
+            "contains": [],
+            "outOfStock": false,
+            "itemID": "54117",
+            "desc": "",
+            "type": []
+          }
+        ],
+        "catTitle": "Iced Coffees",
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    },
+    {
+      "14": {
+        "itemsarray": [
+          {
+            "desc": "With Jameson whisky and fresh cream.",
+            "itemID": "54117",
+            "title": "Irish Coffee",
+            "type": [],
+            "options": [],
+            "outOfStock": false,
+            "price": "8.00",
+            "maycontain": [],
+            "contains": []
+          },
+          {
+            "title": "Calypso Coffee",
+            "contains": [],
+            "maycontain": [],
+            "options": [],
+            "price": "8.00",
+            "type": [],
+            "outOfStock": false,
+            "itemID": "54117",
+            "desc": "With Tia Maria liquor and fresh cream."
+          },
+          {
+            "options": [],
+            "contains": [],
+            "price": "9.00",
+            "itemID": "54117",
+            "title": "Espresso Martini",
+            "outOfStock": false,
+            "maycontain": [],
+            "desc": "Vodka, brewed espresso coffee, Kahlua liquor, homemade sugar syrup.",
+            "type": []
+          },
+          {
+            "price": "10.00",
+            "options": [],
+            "itemID": "54117",
+            "desc": "Bumbu rum, brewed espresso coffee, creme de cacao, homemade sugar syrup, chocolate powder.",
+            "type": [],
+            "outOfStock": false,
+            "title": "Bitter Love",
+            "maycontain": [],
+            "contains": []
+          }
+        ],
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "catTitle": "Exclusive Coffee Cocktails",
+        "times": "00:00 - 00:00"
+      }
+    },
+    {
+      "15": {
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "itemsarray": [
+          {
+            "desc": "Fresh lemon juice, fresh homemade honey syrup, mint leaves, soda sparkling water.",
+            "outOfStock": false,
+            "title": "Refreshing Lemon Iced Tea",
+            "maycontain": [],
+            "price": "6.50",
+            "options": [],
+            "itemID": "54117",
+            "type": [],
+            "contains": []
+          },
+          {
+            "desc": "Fresh lemon juice, fresh strawberries, mint leaves, maraschino cherries.",
+            "maycontain": [],
+            "price": "6.50",
+            "outOfStock": false,
+            "options": [],
+            "title": "Refreshing Strawberry Iced Tea&nbsp;",
+            "type": [],
+            "itemID": "54117",
+            "contains": []
+          }
+        ],
+        "catTitle": "Fresh Homemade Ice Tea",
+        "times": "00:00 - 00:00"
+      }
+    },
+    {
+      "16": {
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "itemsarray": [
+          {
+            "price": "6.00",
+            "desc": "Fresh banana with yogurt, cinnamon and honey.",
+            "outOfStock": false,
+            "options": [],
+            "type": [],
+            "maycontain": [],
+            "contains": [],
+            "itemID": "54117",
+            "title": "Honey and Banana"
+          },
+          {
+            "desc": "Variety of berries with fresh strawberries and yogurt.",
+            "options": [],
+            "title": "Berry Berry",
+            "type": [],
+            "price": "6.00",
+            "contains": [],
+            "outOfStock": false,
+            "maycontain": [],
+            "itemID": "54117"
+          },
+          {
+            "maycontain": [],
+            "outOfStock": false,
+            "contains": [],
+            "price": "7.00",
+            "desc": "Fresh banana, spinach, celery and pineapple, spirulina.",
+            "title": "Green Tropical",
+            "options": [],
+            "type": [],
+            "itemID": "54117"
+          }
+        ],
+        "times": "00:00 - 00:00",
+        "catTitle": "Smoothies"
+      }
+    },
+    {
+      "17": {
+        "catTitle": "Fresh Squeezed Juices",
+        "itemsarray": [
+          {
+            "desc": "",
+            "price": "5.50",
+            "type": [],
+            "outOfStock": false,
+            "itemID": "54117",
+            "title": "Fresh Orange Juice",
+            "maycontain": [],
+            "options": [],
+            "contains": []
+          },
+          {
+            "contains": [],
+            "title": "Fresh Carrot Juice",
+            "type": [],
+            "maycontain": [],
+            "desc": "",
+            "outOfStock": false,
+            "options": [],
+            "itemID": "54117",
+            "price": "5.50"
+          },
+          {
+            "contains": [],
+            "outOfStock": false,
+            "type": [],
+            "maycontain": [],
+            "options": [],
+            "title": "Fresh Apple Juice",
+            "desc": "",
+            "price": "5.50",
+            "itemID": "54117"
+          },
+          {
+            "itemID": "54117",
+            "contains": [],
+            "maycontain": [],
+            "options": [],
+            "price": "5.50",
+            "desc": "",
+            "type": [],
+            "outOfStock": false,
+            "title": "Fresh Grapefruit"
+          },
+          {
+            "price": "6.00",
+            "contains": [],
+            "outOfStock": false,
+            "desc": "",
+            "maycontain": [],
+            "title": "Fresh Mix Juice (Orange, Apple, Carrot, Grapefruit)",
+            "options": [],
+            "type": [],
+            "itemID": "54117"
+          }
+        ],
+        "times": "00:00 - 00:00",
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    },
+    {
+      "18": {
+        "times": "00:00 - 00:00",
+        "catTitle": "The Delightful Flavors Of Nature",
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "itemsarray": [
+          {
+            "options": [],
+            "maycontain": [],
+            "itemID": "54117",
+            "price": "6.00",
+            "contains": [],
+            "desc": "A premium tea mixed with mango, lemon, agave, ginger and the fruit of the baobab tree offering an explosion of irresistibly delicious taste.",
+            "title": "Hakuna Matcha",
+            "outOfStock": false,
+            "type": []
+          },
+          {
+            "desc": "Step back in time with our refreshing favorite Ginger Refresher. An alternative non alcoholic packed full of flavors and blended with water and fruit juices is the perfect refreshing companion.&nbsp;&nbsp;",
+            "contains": [],
+            "title": "Great Uncle Cornelius, Ginger Refresher&nbsp;",
+            "price": "5.00",
+            "outOfStock": false,
+            "options": [],
+            "itemID": "54117",
+            "maycontain": [],
+            "type": []
+          },
+          {
+            "options": [],
+            "contains": [],
+            "outOfStock": false,
+            "price": "5.50",
+            "itemID": "54117",
+            "desc": "One of the most aromatic and distinctive combinations of organic Kombucha with ginger where the natural aeriation is tickling your throat to remind you that something magical is happening.",
+            "maycontain": [],
+            "title": "Kombucha Ginger",
+            "type": []
+          },
+          {
+            "outOfStock": false,
+            "itemID": "54117",
+            "title": "Big Tom",
+            "price": "5.00",
+            "options": [],
+            "desc": "An original and wonderful twist of a traditional tomato juice, powerfully blended with herbs and spices to create a spectacular fusion with mustard, celery, pepper, chili, ginger and more.",
+            "contains": [],
+            "maycontain": [],
+            "type": []
+          },
+          {
+            "type": [],
+            "title": "James white Apple and Ginger",
+            "itemID": "54117",
+            "contains": [],
+            "maycontain": [],
+            "price": "5.00",
+            "desc": "Deliciously organic juice made with lovingly pressed root ginger and apple juice creating a smooth and gentle taste.",
+            "outOfStock": false,
+            "options": []
+          }
+        ]
+      }
+    },
+    {
+      "19": {
+        "itemsarray": [
+          {
+            "type": [],
+            "price": "4.00",
+            "itemID": "54117",
+            "desc": "",
+            "contains": [],
+            "options": [],
+            "title": "Evian (75cl)",
+            "outOfStock": false,
+            "maycontain": []
+          },
+          {
+            "contains": [],
+            "desc": "",
+            "itemID": "54117",
+            "outOfStock": false,
+            "title": "Fiji Artisian Water (1L)",
+            "price": "5.50",
+            "type": [],
+            "options": [],
+            "maycontain": []
+          }
+        ],
+        "catTitle": "Mineral water",
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "times": "00:00 - 00:00"
+      }
+    },
+    {
+      "20": {
+        "itemsarray": [
+          {
+            "contains": [],
+            "outOfStock": false,
+            "maycontain": [],
+            "desc": "",
+            "title": "Perrier (25cl)",
+            "price": "3.00",
+            "type": [],
+            "itemID": "54117",
+            "options": []
+          },
+          {
+            "price": "5.00",
+            "contains": [],
+            "maycontain": [],
+            "title": "Perrier (75cl)",
+            "options": [],
+            "itemID": "54117",
+            "outOfStock": false,
+            "type": [],
+            "desc": ""
+          }
+        ],
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "times": "00:00 - 00:00",
+        "catTitle": "Sparkling Water"
+      }
+    },
+    {
+      "21": {
+        "catTitle": "Soft Drinks",
+        "itemsarray": [
+          {
+            "maycontain": [],
+            "itemID": "54117",
+            "desc": "",
+            "outOfStock": false,
+            "type": [],
+            "contains": [],
+            "price": "0",
+            "title": "Soft Drinks (25cl)&nbsp;",
+            "options": []
+          }
+        ],
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "times": "00:00 - 00:00"
+      }
+    },
+    {
+      "22": {
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "catTitle": "Juices",
+        "itemsarray": [
+          {
+            "outOfStock": false,
+            "contains": [],
+            "price": "3.50",
+            "title": "Juices (28cl)",
+            "type": [],
+            "itemID": "54117",
+            "desc": "",
+            "maycontain": [],
+            "options": []
+          }
+        ],
+        "times": "00:00 - 00:00"
+      }
+    },
+    {
+      "23": {
+        "itemsarray": [
+          {
+            "maycontain": [],
+            "contains": [],
+            "outOfStock": false,
+            "desc": "",
+            "price": "4.50",
+            "type": [],
+            "title": "Fever Tree Tonic Water",
+            "options": [],
+            "itemID": "54117"
+          },
+          {
+            "type": [],
+            "options": [],
+            "title": "Fever Tree Tonic Water (Low Calories)",
+            "itemID": "54117",
+            "price": "4.50",
+            "outOfStock": false,
+            "desc": "",
+            "contains": [],
+            "maycontain": []
+          },
+          {
+            "maycontain": [],
+            "contains": [],
+            "price": "4.50",
+            "itemID": "54117",
+            "outOfStock": false,
+            "options": [],
+            "title": "Three Cents Ginger Beer&nbsp;",
+            "desc": "",
+            "type": []
+          },
+          {
+            "desc": "",
+            "itemID": "54117",
+            "maycontain": [],
+            "type": [],
+            "contains": [],
+            "price": "4.50",
+            "title": "Thee Cents Pink Grapefruit",
+            "outOfStock": false,
+            "options": []
+          },
+          {
+            "desc": "",
+            "outOfStock": false,
+            "itemID": "54117",
+            "options": [],
+            "title": "Three Cents Gentlemens Soda",
+            "type": [],
+            "maycontain": [],
+            "contains": [],
+            "price": "4.50"
+          },
+          {
+            "desc": "",
+            "itemID": "54117",
+            "options": [],
+            "maycontain": [],
+            "price": "4.50",
+            "type": [],
+            "contains": [],
+            "title": "Three Cents Mediterranean Tonic",
+            "outOfStock": false
+          },
+          {
+            "maycontain": [],
+            "options": [],
+            "title": "Thomas Henry (Bitter Lemon, Cherry, Blossom)",
+            "desc": "",
+            "price": "4.50",
+            "outOfStock": false,
+            "itemID": "54117",
+            "type": [],
+            "contains": []
+          },
+          {
+            "itemID": "54117",
+            "contains": [],
+            "desc": "",
+            "type": [],
+            "title": "Fritz Kola Stevia",
+            "options": [],
+            "outOfStock": false,
+            "maycontain": [],
+            "price": "4.50"
+          }
+        ],
+        "catTitle": "Premium Soft Drinks",
+        "days": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "times": "00:00 - 00:00"
+      }
+    }
+  ]

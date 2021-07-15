@@ -1,0 +1,96 @@
+.BoxForm {
+  display: flex;
+  column-gap: 40px;
+}
+
+.BoxInputs {
+  grid-area: inputs;
+  max-width: 600px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.Form {
+  max-width: 1050px;
+  width: 100%;
+  margin: 40px auto;
+  display: grid;
+  grid-template-areas: "title title" "inputs files" "none action";
+  grid-template-columns: 1.6fr 0.9fr;
+  grid-template-rows: auto 1fr auto;
+  grid-row-gap: 30px;
+  grid-column-gap: 20px;
+  flex-direction: column;
+  box-sizing: border-box;
+  background: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 50px 29px rgba(34, 60, 80, 0.12);
+}
+
+.Title {
+  grid-area: title;
+  width: 100%;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.InputsWrapper {
+  margin-top: 30px;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  row-gap: 24px;
+  margin-bottom: 24px;
+}
+
+.CheckboxWrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  row-gap: 20px;
+}
+
+
+.BoxFiles {
+  grid-area: files;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.BoxRow {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  row-gap: 50px;
+  justify-content: space-between;
+}
+
+.UploadCaseTitle {
+  padding-bottom: 5px;
+  margin-top: 15px;
+  font-weight: 500;
+}
+
+.ActionBox {
+  grid-area: action;
+  width: 100%;
+  display: grid;
+  margin-left: auto;
+  grid-template-columns: 2fr 3fr;
+  grid-column-gap: 15px;
+}
+
+.CatchError {
+  width: 99%;
+  border: 2px solid tomato;
+  min-height: 50px;
+  border-radius: 5px;
+  margin: 0 auto 15px;
+}

@@ -1,0 +1,33 @@
+.NameUserBox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 300;
+}
+.NameUser {
+    margin-right: 16px;
+}
+
+.Money {
+    margin-right: 16px;
+    color: #FFFFFF;
+    font-weight: 600;
+    background-color: #2FBF71;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.Gift {
+  margin-right: 4px;
+}
+
+.ButtonLogin{
+    font-size: 20px;
+    color:#3f51b5;
+}
